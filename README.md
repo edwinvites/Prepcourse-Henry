@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-es para utilizarlo en pre curso de Henry
+17 de Junio de 2025
